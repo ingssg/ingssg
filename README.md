@@ -11,8 +11,8 @@
 <h3 align="center">📊 Stats</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingssg&layout=compact&theme=react&hide=Makefile,Perl,Shell,Assembly,jupyter%20notebook,C" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingssg&show_icons=true&theme=react" />
+  <img height="180em" src="https://github-readme-stats-mu-green-20.vercel.app/api/top-langs/?username=ingssg&layout=compact&theme=react&hide=Makefile,Perl,Shell,Assembly,jupyter%20notebook,C" />
+  <img height="180em" src="https://github-readme-stats-mu-green-20.vercel.app/api?username=ingssg&show_icons=true&theme=react" />
 </p>
 
 <p align="center">
